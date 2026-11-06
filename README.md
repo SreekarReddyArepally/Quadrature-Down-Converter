@@ -168,14 +168,8 @@ Quadrature-Down-Converter/
 │   ├── Q-4/                            # LPF frequency response & CS amplifier waveforms
 │   └── Q-5/                            # Full end-to-end integration waveforms and DSO captures
 │
-├── Report/                             # Reports and modular section submissions
-│   ├── ANALOG_ELECTRONIC_CIRCUITS_Table-8.pdf  # Full Final Report with Hardware Verification
-│   ├── AEC_PROJECT_TEAM8.pdf                   # Initial Final Submission (Pre-Lab completion)
-│   ├── FINAL_Q_1 .pdf                          # Q1: Mathematical theory & image rejection
-│   ├── FINAL_Q_2.pdf                           # Q2: Quadrature oscillator design
-│   ├── FINAL_Q_3.pdf                           # Q3: Switch mixer sweep analysis
-│   ├── FINAL_Q_4.pdf                           # Q4: RC LPF & CS amplifier design
-│   └── FINAL_Q_5.pdf                           # Q5: Complete integrated prototype
+├── Report/                             # Final project report (18-page comprehensive paper)
+│   └── ANALOG_ELECTRONIC_CIRCUITS_Table-8.pdf  # Culminated Report with Hardware Verification
 │
 └── References/                         # Classical papers & course literature
     ├── 1_Direct-conversion_radio_transceivers_for_digital_communications.pdf (Asad A. Abidi)
