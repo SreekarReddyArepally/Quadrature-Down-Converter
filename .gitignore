@@ -1,0 +1,23 @@
+# LTSpice temporary simulation and output files
+*.raw
+*.op.raw
+*.log
+*.fft
+*.db
+*.net
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# LaTeX build artifacts
+*.aux
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
